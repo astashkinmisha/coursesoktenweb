@@ -1,0 +1,146 @@
+.back{
+    background: #DCC283;
+}
+
+.title1 {
+text-align: center;
+padding: 15px;
+
+}
+
+.header1 {
+    margin-left: 15px;
+    box-sizing: border-box;
+    font-weight: bolder;
+    padding: 15px;
+    width: 235px;
+    border: 2px solid black;
+    text-align: center;
+   
+
+}
+
+.decription1 {
+    box-sizing: border-box;
+    font-weight: 500px;
+    border: 2px solid black;
+    width: 800px;
+    margin-left: 15px;
+   
+    
+}
+.ingridents {
+    box-sizing: border-box;
+    font-weight: 500px;
+    border: 2px solid black;
+    width: 140px;
+    text-align: center;
+    margin-left: 15px;
+    
+
+}
+.item1 {
+    box-sizing: border-box;
+    width: 450px;
+    color: darkslategray;
+    margin-left: 15px;
+}
+.image1 {
+border: 1px solid black;
+width: 800px;
+height: 650px;
+box-sizing: border-box;
+margin-left: 15px;
+}
+
+.meal2 {
+    box-sizing: border-box;
+    width: 64px;
+    font-weight: 800;
+    font-size: 25px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 15px;
+
+
+}
+.item2 {
+    font: bolder;
+    color: darkslategray;
+    margin-left: 15px;
+}
+
+.cooking {
+box-sizing: border-box;
+font: 900;
+width: 145px;
+border: 2px solid black;
+text-align: center;
+margin-left: 15px;
+
+}
+
+.item3 {
+font-size: 14px;
+width: 500px;
+width: 800px;
+margin-left: 15px;
+}
+
+.meal3 {
+    font-size: 25px;
+    border: 2px solid black;
+    width: 75px;
+    text-align: center;
+    margin-left: 15px;
+}
+.ingridients2 {
+    box-sizing: border-box;
+    font-weight: 500px;
+    border: 2px solid black;
+    width: 140px;
+    text-align: center;
+    margin-left: 15px;
+
+}
+
+.description2 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 800px;
+    margin-left: 15px;
+
+}
+.image2 {
+    border: 1px solid black;
+    width: 800px;
+    height: 650px;
+    margin-left: 15px;
+}
+
+.item4{
+    color: darkslategray;
+    margin-left: 15px;
+
+}
+
+.cooking2{
+    box-sizing: border-box;
+    font: 900;
+    width: 145px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.item5{
+    font-size: 14px;
+    width: 500px;
+    width: 800px;
+    margin-left: 15px;
+}
+
+.footer {
+color: white;
+margin-left: 15px;
+}
