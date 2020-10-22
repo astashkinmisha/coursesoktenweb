@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 800px;
+    height: 600px;
+    background: black;
+}
+
+.colorbox {
+    display: flex;
+    width: 25%;
+    height: 60%;
+    background: silver;
+}
+
